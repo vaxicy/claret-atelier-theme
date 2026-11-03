@@ -1,0 +1,47 @@
+{
+  "name": "claret-atelier-theme",
+  "displayName": "Claret Atelier Theme",
+  "description": "A painter's studio palette: deep claret, warm brass and paper white in the light variant, a candlelit pigment room at night in the dark one.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "dark",
+    "claret",
+    "atelier",
+    "wine",
+    "brass",
+    "warm"
+  ],
+  "icon": "assets/icon.png",
+  "license": "SEE LICENSE IN LICENSE",
+  "galleryBanner": {
+    "color": "#241318",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/claret-atelier-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claret Atelier Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/claret-atelier-light-color-theme.json"
+      },
+      {
+        "label": "Claret Atelier Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/claret-atelier-dark-color-theme.json"
+      }
+    ]
+  }
+}

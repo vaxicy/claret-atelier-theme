@@ -1,0 +1,16 @@
+:root {
+  --claret: #8a1a2c;
+  --deep-claret: #5a0f1e;
+  --brass: #d8bc8c;
+  --paper: #faf6ee;
+  --grey-blue: #9fb4c6;
+  --ink: #3a2a30;
+}
+
+.atelier-card {
+  background: var(--paper);
+  border: 1px solid var(--brass);
+  border-radius: 14px;
+  color: var(--ink);
+  padding: 16px 20px;
+}
