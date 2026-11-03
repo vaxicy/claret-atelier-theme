@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaxicy/claret-atelier-theme/main/assets/icon.png" alt="Claret Atelier Theme logo" width="128">
+  <img src="https://raw.githubusercontent.com/vaxicy/claret-atelier-theme/master/assets/icon.png" alt="Claret Atelier Theme logo" width="128">
 </p>
 
 <h1 align="center">Claret Atelier Theme</h1>
@@ -19,7 +19,7 @@ A painter's studio theme: **paper white canvas with deep claret and warm brass**
 
 | Light 浅色 | Dark 深色 |
 | --- | --- |
-| ![Claret Atelier Theme Light](https://raw.githubusercontent.com/vaxicy/claret-atelier-theme/main/store-assets/screenshots/en/screenshot-light.png) | ![Claret Atelier Theme Dark](https://raw.githubusercontent.com/vaxicy/claret-atelier-theme/main/store-assets/screenshots/en/screenshot-dark.png) |
+| ![Claret Atelier Theme Light](https://raw.githubusercontent.com/vaxicy/claret-atelier-theme/master/store-assets/screenshots/en/screenshot-light.png) | ![Claret Atelier Theme Dark](https://raw.githubusercontent.com/vaxicy/claret-atelier-theme/master/store-assets/screenshots/en/screenshot-dark.png) |
 
 > Both previews are captured from a real VS Code window running the theme — no mockups.
 >
